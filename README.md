@@ -8,7 +8,7 @@ Currently exploring backend technologies like **Node.js & Express.js** to grow a
 
 - 🔭 I’m currently working on **Ai Job Recommendation**
 
-- 🌱 I’m currently learning **React, JavaScript**
+- 🌱 I’m currently learning **React, JavaScript, AI, DSA, Backend**
 
 - 👯 I’m looking to collaborate on **Frontend**
 
